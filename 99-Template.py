@@ -21,3 +21,5 @@ fRes = solution(input)
 sw = fStopWatch(sw)
 print("Execution time:", sw)
 print(f'Result: {fRes}')
+
+print("---\nEND")
