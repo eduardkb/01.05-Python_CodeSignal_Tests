@@ -6,5 +6,4 @@ x = map(int, '123789')
 i = list(x)
 print(i)
 print(type(i[2]))
-
-print(x)
+print(type(i[2]))
